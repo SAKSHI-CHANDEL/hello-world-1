@@ -2,4 +2,4 @@
 
 ### Hey!
 ___
-I'm __*Saloni*__. I like __Java__
+I'm __*Saloni*__. I like __Java.__
